@@ -1,4 +1,4 @@
-# Student Information Management System
+# University Management System
 
 This project is a University Management System with three user panels: Admin, Teacher, and Student. The system is built using PHP, Bootstrap, HTML, CSS, JavaScript, and MySQL.
 
